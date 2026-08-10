@@ -25,8 +25,7 @@ saved_models/
 # Data and Results
 data/raw/
 data/processed/
-results/
-*.csv
+
 *.log
 logs/
 

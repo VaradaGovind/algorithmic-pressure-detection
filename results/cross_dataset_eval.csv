@@ -1,0 +1,3 @@
+model,cross_dataset_auc
+Autoencoder,0.15229515229515228
+Isolation Forest,0.14929214929214932

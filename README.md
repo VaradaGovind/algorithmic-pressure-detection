@@ -100,14 +100,14 @@ Our analysis leverages multimodal physiological data and unsupervised anomaly de
 ### ROC Curve and Anomaly Detection
 The ROC curve evaluates the model's performance in detecting stress anomalies compared to baseline operational conditions.
 
-![ROC Curve](./docs/images/roc_curve.png)
+![ROC Curve](./results/roc_curve.png)
 
 ### Model Comparison
 We benchmarked several models (Autoencoder, Isolation Forest, One-Class SVM, LOF). The Autoencoder and Isolation Forest architectures generally yield the highest AUC scores across our leave-one-subject-out (LOSO) cross-validation framework.
 
-![Model AUC Comparison](./docs/images/model_auc_comparison.png)
+![Model AUC Comparison](./results/model_auc_comparison.png)
 
 ### Error Distribution
 The error distribution plot highlights the separation between standard operational states and critical stress events, enabling the setting of a viable "invisible redline" threshold.
 
-![Error Distribution](./docs/images/error_distribution.png)
+![Error Distribution](./results/error_distribution.png)

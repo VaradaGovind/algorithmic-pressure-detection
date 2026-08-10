@@ -1,0 +1,11 @@
+Subjects evaluated: 15
+Features used: 24
+LOSO pooled autoencoder AUC: 0.8410
+Mean autoencoder fold AUC: 0.9104
+Mean Isolation Forest AUC: 0.8898
+Mean One-Class SVM AUC: 0.7463
+Mean LOF AUC: 0.7961
+Mean stress detect rate (95th threshold): 85.16%
+Final model save path: models/autoencoder.pth
+Scaler artifact path: models/autoencoder_artifacts.npz
+Final training epochs: 50

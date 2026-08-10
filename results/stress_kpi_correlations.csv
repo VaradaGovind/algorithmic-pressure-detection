@@ -1,0 +1,13 @@
+outcome,stress_feature,pearson_corr,n_samples
+defect_rate,stress_mean,0.205185418543173,60
+defect_rate,stress_std,0.20298761546632396,60
+defect_rate,stress_max,0.17618903950648646,60
+defect_rate,high_pressure_share,0.15937226337475902,60
+delay_flag,stress_mean,0.09139697125603113,60
+delay_flag,stress_std,0.156113784996952,60
+delay_flag,stress_max,0.14777512368221482,60
+delay_flag,high_pressure_share,-0.06492427218894578,60
+cycle_time,stress_mean,0.06997491616271796,60
+cycle_time,stress_std,0.10006671750137998,60
+cycle_time,stress_max,0.11326628879678644,60
+cycle_time,high_pressure_share,-0.05334694953040081,60
