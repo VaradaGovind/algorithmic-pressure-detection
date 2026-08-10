@@ -1,4 +1,4 @@
-# 🧠 Algorithmic Pressure Detection
+# 🧠 Algorithmic Pressure Detection: Predictive Stress Mapping
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Target](https://img.shields.io/badge/Target-Data%20Science-orange)
@@ -9,7 +9,7 @@
 
 This repository contains a Python-based data science pipeline for **Algorithmic Pressure Detection**. By leveraging unsupervised Deep Learning and physiological data, it aims to map an "invisible redline" of stress experienced by workers in modern, algorithmically driven environments (e.g., supply chains, gig economies).
 
-Operating on multimodal biosignals, the pipeline extracts high-level features and evaluates execution telemetry to forecast early thermal/stress trends and mitigate transient pressure without requiring explicit manual intervention.
+Operating on multimodal biosignals, the pipeline extracts high-level features and evaluates execution telemetry to forecast early stress trends and mitigate transient pressure without requiring explicit manual intervention.
 
 <p align="center">
   <img src="results/error_distribution.png" alt="Error Distribution" width="800"/>
@@ -70,7 +70,7 @@ The pipeline has been evaluated on the WESAD corpus using a Leave-One-Subject-Ou
 | **Cross-Dataset AUC** | **0.1523** | 0.1493 | N/A | N/A |
 | **Primary Use-Case** | **Deep Anomaly** | Tree-based Anomaly | Boundary | Local Density |
 
-*Note: In trace-replay evaluations, the Autoencoder significantly outperforms reactive baselines by accurately forecasting stress trends and preemptively identifying thermal emergencies before a critical redline is breached.*
+*Note: In trace-replay evaluations, the Autoencoder significantly outperforms reactive baselines by accurately forecasting stress trends and preemptively identifying acute stress emergencies before a critical redline is breached.*
 
 ---
 
