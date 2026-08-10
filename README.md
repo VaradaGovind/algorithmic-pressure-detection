@@ -106,7 +106,7 @@ The complete detection stack has been rigorously tested using extensive physiolo
 
 ## 📂 Directory Structure
 ```text
-Entre_Mehtab/
+algorithmic-pressure-detection/
 ├── data/
 │   ├── processed/
 │   └── raw/
