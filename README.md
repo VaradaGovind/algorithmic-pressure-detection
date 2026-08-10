@@ -133,8 +133,4 @@ Entre_Mehtab/
 └── README.md
 ```
 
----
 
-## 📄 Paper
-
-**[Paper Coming Soon]** — I will update this section with the link to the published paper once it is available.
