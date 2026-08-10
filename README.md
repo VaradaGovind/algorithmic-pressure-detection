@@ -1,4 +1,4 @@
-# 🧠 Entre_Mehtab: Algorithmic Pressure Detection
+# 🧠 Algorithmic Pressure Detection
 
 ![Language](https://img.shields.io/badge/Language-Python-blue)
 ![Target](https://img.shields.io/badge/Target-Data%20Science-orange)
