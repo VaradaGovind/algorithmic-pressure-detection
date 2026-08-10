@@ -1,0 +1,9 @@
+torch
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+jupyter
+tqdm
+statsmodels
